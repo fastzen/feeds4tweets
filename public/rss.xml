@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA to Host Media Briefing on Launch of Asteroid-Bound Spacecraft</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-launch-of-asteroid-bound-spacecraft</link>
+ <description>In less than a month, NASA will launch the first U.S. spacecraft destined to rendezvous with, study and return a sample of an asteroid. Ahead of this mission, which will yield the largest sample returned from space since the Apollo era, the agency will host a media briefing at 2 p.m. EDT Wednesday, Aug. 17.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/16-019_0.png?itok=STar2uRW" length="2121988" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-launch-of-asteroid-bound-spacecraft</guid>
+ <pubDate>Wed, 10 Aug 2016 14:14 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389296</dc:identifier>
+</item>
+ <item> <title>NASA Selects Six Companies to Develop Prototypes, Concepts for Deep Space Habitats</title>
+ <link>http://www.nasa.gov/press-release/nasa-selects-six-companies-to-develop-prototypes-concepts-for-deep-space-habitats</link>
+ <description>NASA has selected six U.S. companies to help advance the Journey to Mars by developing ground prototypes and concepts for deep space habitats.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/hab_wrs_galley.png?itok=qR3VUWlH" length="8915055" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-selects-six-companies-to-develop-prototypes-concepts-for-deep-space-habitats</guid>
+ <pubDate>Tue, 09 Aug 2016 16:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389233</dc:identifier>
+</item>
+ <item> <title>NASA TV to Air US Spacewalk, Briefing on Installation of Space Station Docking Port</title>
+ <link>http://www.nasa.gov/press-release/nasa-tv-to-air-us-spacewalk-briefing-on-installation-of-space-station-docking-port</link>
+ <description>NASA Television will bring to viewers around the world live coverage Friday, Aug. 19, as two NASA astronauts install a new gateway for American commercial crew spacecraft at the International Space Station -- a significant milestone in NASA’s work to return crew launches to U.S. soil.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/16105358343_cb8192b330_k_1.jpg?itok=HUES2uR-" length="969590" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-tv-to-air-us-spacewalk-briefing-on-installation-of-space-station-docking-port</guid>
+ <pubDate>Mon, 08 Aug 2016 15:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389159</dc:identifier>
+</item>
+ <item> <title>NASA Charges Toward Greener Aviation With Novel Concepts</title>
+ <link>http://www.nasa.gov/press-release/nasa-charges-toward-greener-aviation-with-novel-concepts</link>
+ <description>NASA has selected five green technology concepts that have the potential to transform the aviation industry in the next decade by reducing aircraft fuel use and emissions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/cast-2016.png?itok=wD0I4Vwb" length="3882049" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-charges-toward-greener-aviation-with-novel-concepts</guid>
+ <pubDate>Fri, 05 Aug 2016 14:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389092</dc:identifier>
+</item>
+ <item> <title>NASA’s CubeSat Launch Initiative Opens Space to Educators, Nonprofits</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-cubesat-launch-initiative-opens-space-to-educators-nonprofits</link>
+ <description>Accredited education institutions, nonprofit organizations and NASA centers can join the adventure and challenges of space while helping the agency achieve its exploration goals through the next round of the agency’s CubeSat Launch Initiative (CSLI). Applicants must submit proposals by 4:30 p.m. EST, Nov. 22.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/cubesats.jpg?itok=uIvuhS90" length="325583" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-cubesat-launch-initiative-opens-space-to-educators-nonprofits</guid>
+ <pubDate>Thu, 04 Aug 2016 16:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389049</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to Orion Water Drop Test, Update on Journey to Mars</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-orion-water-drop-test-update-on-journey-to-mars</link>
+ <description>Media are invited to watch engineers test a mockup of NASA’s Orion spacecraft in a simulated ocean splashdown Thursday, Aug. 25, at NASA’s Langley Research Center in Hampton, Virginia.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/orion_drop_test.jpg?itok=WsnBcN_o" length="5287092" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-orion-water-drop-test-update-on-journey-to-mars</guid>
+ <pubDate>Thu, 04 Aug 2016 10:10 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389022</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to Journey to Mars Showcase on Aug. 18</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-journey-to-mars-showcase-on-aug-18</link>
+ <description>Media are invited Thursday, Aug. 18, to interview experts from across NASA and industry about the science, technology and human spaceflight activities that are making the agency’s Journey to Mars possible.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/25733971520_82875e17e4_k_1.jpg?itok=ailYcvJm" length="1219734" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-journey-to-mars-showcase-on-aug-18</guid>
+ <pubDate>Wed, 03 Aug 2016 15:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>389002</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to Learn About New Hurricane Mission</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-new-hurricane-mission</link>
+ <description>NASA is inviting journalists to learn about a mission that will help improve hurricane track, intensity and storm surge forecasts during a media event from 8 a.m. to 1:15 p.m. CDT Thursday, Aug. 11, at the Southwest Research Institute (SwRI) in San Antonio.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/cygnss-inorbit-artconcept_002.jpeg?itok=C8dOnBtV" length="1185944" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-new-hurricane-mission</guid>
+ <pubDate>Tue, 02 Aug 2016 13:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>388929</dc:identifier>
+</item>
+ <item> <title>NASA Names New Chair for Aerospace Safety Advisory Panel</title>
+ <link>http://www.nasa.gov/press-release/nasa-names-new-chair-for-aerospace-safety-advisory-panel</link>
+ <description>NASA Administrator Charles Bolden has named Patricia Sanders as chair of the Aerospace Safety Advisory Panel (ASAP), an advisory committee that reports to NASA and Congress on matters concerning the agency’s safety performance.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=L07ZQKnk" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-names-new-chair-for-aerospace-safety-advisory-panel</guid>
+ <pubDate>Mon, 01 Aug 2016 16:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>388886</dc:identifier>
+</item>
+ <item> <title>NASA Offers Media Access to View Asteroid-Bound Spacecraft</title>
+ <link>http://www.nasa.gov/press-release/nasa-offers-media-access-to-view-asteroid-bound-spacecraft</link>
+ <description>Media will have an opportunity to photograph NASA’s Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx) spacecraft and interview mission officials at 8 a.m. EDT Saturday, Aug. 20, at the agency’s Kennedy Space Center in Florida. OSIRIS-REx will be the first U.S. mission to sample the surface of an aste</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/16-019.png?itok=pjOkoWsQ" length="2121988" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-offers-media-access-to-view-asteroid-bound-spacecraft</guid>
+ <pubDate>Mon, 01 Aug 2016 16:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>388884</dc:identifier>
+</item>
+</channel>
+</rss>
