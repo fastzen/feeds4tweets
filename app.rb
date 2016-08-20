@@ -78,4 +78,4 @@ form action="change" method="POST"
         tr.tasks
           td.tweet
             a.twitter-share-button target="_blank" href="https://twitter.com/intent/tweet?text=#{URI.escape(entry['title'])}&url=#{URI.escape(entry['url'])}"
-              = entry['title']
+              == entry['title']
