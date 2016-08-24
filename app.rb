@@ -77,5 +77,5 @@ form action="change" method="POST"
       - entries.each do |entry|
         tr.tasks
           td.tweet
-            a.twitter-share-button target="_blank" href="https://twitter.com/intent/tweet?text=#{URI.escape(entry['title'])}&url=#{URI.escape(entry['url'])}"
+            a.twitter-share-button target="_blank" href="https://twitter.com/intent/tweet?text=#{CGI::unescapeHTML(entry['title'])}&url=#{URI.escape(entry['url'])}"
               == entry['title']
