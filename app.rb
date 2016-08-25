@@ -24,7 +24,7 @@ get '/' do
   url = cookies['url'].to_s.length == 0 ? ENV['BASE_URL'] : cookies['url']
   begin
     feed = Feedjira::Feed.fetch_and_parse url
-    feed.entries.each { |entry| foo = entry.url } # not sure why this is necessary!
+    feed.entries.each { |entry| entry.title = CGI::unescapeHTML(entry.title) } # not sure why this is necessary!
     entries = feed.entries
   rescue
     feed = nil
@@ -77,5 +77,5 @@ form action="change" method="POST"
       - entries.each do |entry|
         tr.tasks
           td.tweet
-            a.twitter-share-button target="_blank" href="https://twitter.com/intent/tweet?text=#{CGI::unescapeHTML(entry['title'])}&url=#{URI.escape(entry['url'])}"
+            a.twitter-share-button target="_blank" href="https://twitter.com/intent/tweet?text=#{URI.escape(entry['title'])}&url=#{URI.escape(entry['url'])}"
               == entry['title']
