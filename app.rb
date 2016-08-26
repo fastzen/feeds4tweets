@@ -24,7 +24,10 @@ get '/' do
   url = cookies['url'].to_s.length == 0 ? ENV['BASE_URL'] : cookies['url']
   begin
     feed = Feedjira::Feed.fetch_and_parse url
-    feed.entries.each { |entry| entry.title = CGI::unescapeHTML(entry.title) } # not sure why this is necessary!
+    feed.entries.each do |entry|
+      entry.title = CGI::unescapeHTML(entry.title)
+      entry.url # not sure why this is necessary!
+    end
     entries = feed.entries
   rescue
     feed = nil
